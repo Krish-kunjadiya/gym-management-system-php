@@ -54,5 +54,5 @@ Follow these steps to set up the project on your local machine.
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/[Your-GitHub-Username]/gym-management-system-php.git
+git clone https://github.com/Krish-kunjadiya/gym-management-system-php.git
 cd gym-management-system-php
