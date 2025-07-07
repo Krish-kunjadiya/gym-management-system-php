@@ -10,14 +10,21 @@ A comprehensive Gym Management System built from scratch using Core PHP, MySQLi,
 
 ## 📸 Screenshots
 
-| Login Page | Admin Dashboard | Member Management |
-| :---: | :---: | :---: |
-| ![Screenshot 2025-07-01 000648](https://github.com/user-attachments/assets/c2b6cb06-adbe-4ed3-8470-809e443bfccf) | ![Screenshot 2025-07-01 001429](https://github.com/user-attachments/assets/8f2de4e2-38dc-4cdb-a164-4138fa4bdb50) | ![Screenshot 2025-07-01 001455](https://github.com/user-attachments/assets/e374ab8b-7a8d-4145-8005-cdfc5b54c42b) |
-
-| Member Dashboard | Public Signup |
+| Login Page |  Public Signup | Admin Dashboard | Member Management |
 | :---: | :---: |
-| ![localhost_kvscode_gym-management-system_member-dashboard php](https://github.com/user-attachments/assets/23f8a22a-5871-47ed-ac6e-0628c9cabe8d) | ![Screenshot 2025-07-01 000744](https://github.com/user-attachments/assets/46aebee5-4cfc-4911-b3d7-5fafd8bce5ee) |
+| ![Screenshot 2025-07-01 000648](https://github.com/user-attachments/assets/c2b6cb06-adbe-4ed3-8470-809e443bfccf) | ![Screenshot 2025-07-01 000744](https://github.com/user-attachments/assets/46aebee5-4cfc-4911-b3d7-5fafd8bce5ee) |
 
+| Member Dashboard | 
+| :---: |
+| ![localhost_kvscode_gym-management-system_member-dashboard php](https://github.com/user-attachments/assets/23f8a22a-5871-47ed-ac6e-0628c9cabe8d) |
+
+| Admin Dashboard |
+| :---: |
+| ![Screenshot 2025-07-01 001429](https://github.com/user-attachments/assets/8f2de4e2-38dc-4cdb-a164-4138fa4bdb50) |
+
+| Member Management |
+| :---: |
+| ![Screenshot 2025-07-01 001455](https://github.com/user-attachments/assets/e374ab8b-7a8d-4145-8005-cdfc5b54c42b) |
 ---
 
 ## ✨ Features
