@@ -1,6 +1,6 @@
 <?php
 // The password you want to use
-$password = 'admin123';
+$password = 'staff123';
 
 // Generate the hash
 $hash = password_hash($password, PASSWORD_DEFAULT);

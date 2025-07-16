@@ -1,9 +1,9 @@
 <?php
 // Database Configuration
 define('DB_HOST', 'localhost');
-define('DB_USER', ''); // Your MySQL username
-define('DB_PASS', '');     // Your MySQL password
-define('DB_NAME', ''); // The database name you created
+define('DB_USER', 'root'); // Your MySQL username
+define('DB_PASS', '78563');     // Your MySQL password
+define('DB_NAME', 'gms_db'); // The database name you created
 
 // Create connection
 $conn = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
