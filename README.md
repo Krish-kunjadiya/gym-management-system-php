@@ -63,3 +63,5 @@ Follow these steps to set up the project on your local machine.
 ```bash
 git clone https://github.com/Krish-kunjadiya/gym-management-system-php.git
 cd gym-management-system-php
+```
+
