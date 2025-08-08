@@ -9,9 +9,13 @@ A comprehensive Gym Management System built from scratch using Core PHP, MySQLi,
 
 ## 📸 Screenshots
 
-| Login Page |  Public Signup |
-| :---: | :---: |
-| ![Screenshot 2025-07-01 000648](https://github.com/user-attachments/assets/c2b6cb06-adbe-4ed3-8470-809e443bfccf) | ![Screenshot 2025-07-01 000744](https://github.com/user-attachments/assets/46aebee5-4cfc-4911-b3d7-5fafd8bce5ee) |
+| Login Page |
+| :---: |
+| ![Screenshot 2025-07-01 000648](https://github.com/user-attachments/assets/c2b6cb06-adbe-4ed3-8470-809e443bfccf) |
+
+| Public Signup |
+| :---: |
+| ![Screenshot 2025-07-01 000744](https://github.com/user-attachments/assets/46aebee5-4cfc-4911-b3d7-5fafd8bce5ee) |
 
 | Member Dashboard | 
 | :---: |
