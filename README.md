@@ -5,6 +5,7 @@
 
 A comprehensive Gym Management System built from scratch using Core PHP, MySQLi, and Bootstrap. This application provides a centralized and efficient platform for managing gym operations, with distinct roles and dashboards for administrators, staff, and members.
 
+## [To Blog...](https://medium.com/@krishkunjadiya1/project-showcase-building-a-web-based-gym-management-system-3eac8479c516)
 ---
 
 ## 📸 Screenshots
